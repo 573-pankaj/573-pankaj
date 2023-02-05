@@ -83,7 +83,8 @@
 
 <!-- my languages section starts here  -->
 <br>
-### Languages:
+
+### &nbsp; Languages:
 
 - 🇮🇳 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
@@ -94,7 +95,8 @@
 
 <!-- my sports and game section starts here  -->
 <br>
-### Sports / Game / Activities / Hobby:
+
+### &nbsp; Sports / Game / Activities / Hobby:
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
