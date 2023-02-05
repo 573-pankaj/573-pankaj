@@ -1,7 +1,11 @@
 
-<p>Hello there !! Hope you are doing well👋
+<h1>Hello there !! Hope you are doing well👋.
    My name is Pankaj Kumar Barman.
-   I am very glad you found me somehow. </p>
+   I am very glad you are here. </h1>
+   A full time Post Graduate student and aspiring Data Scientist
+🏠 &nbsp; Living: Raiganj, India
+
+<!-- Contact me section starts here  -->
 
 <div align = "center"><img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
 
@@ -35,12 +39,24 @@
   <a target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
 </p>
 </br>
+<!-- Contact me section ends here  -->
 
-<h1 align=center>About Me :</h1>
+<!-- about-me section starts here  -->
 
-<p> * Final year M.Sc. Computer Science Student.
-    * Completed my Graduated in Computer Applicarions with 8.41 CGPA. 
-    * I am a Aspiring Data Scientist. 
+<!-- ### 👨‍🏫 &nbsp; About Me -->
+<h1 align=center> 👨‍🏫  About Me :</h1>
+
+<p>📌 And creating Business Strategy using Data Science is my Avidity. I am kind of person who can understand the Business and the Technology aspects So that I can able to fulfill the gap between Technology and the Business use cases to build the powerful impact and positive Customer Relationship.
+
+📌I am a kind of person who loves to think a lot towards Science and Technology. I have work on variety of machine learning models End to End using PYTHON with real time data set like House price prediction, employee salary prediction, implementing Hierarchical clustering algorithm on Mall Customers and many more and have strong foundation on Math and Stats .I am also a member of the Space and Aeronautics Activity Center (SAAC), the initiatives taken by Jalpaiguri Govt. Engineering college students.  
+
+📌 When I am free I love to play outdoor games like football, cricket and leasing some good music and Drawing✏. In the year 2019 I had participated in the Reliance Foundation Youth Sports (RFYS) football tournament which is held every year all over India and we were the only team who achieve the championship from Siliguri and promoted to play further matches in Kolkata. It was once in a life Experience I had my college life. 
+
+📌Interested in  AI Research and Explore , and also very much interested in to Know how AI and ML can help future Space mission so efficiently . 
+
+📌TECHNOLOGIES :  Ms Excel, Power BI , MYSQL , SQLite , Python, Numpy, Pandas, Scikit-Learn , Machine Learning , Data Science , c++ , Advanced Python.
+
+📌SPECIALTIES:  Data storytelling, Data Visualizations, Business Strategy, Problem solving, Creative Thinking, Leadership, Relationship Building. 
   </p>
 
 
