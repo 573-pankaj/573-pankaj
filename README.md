@@ -59,6 +59,50 @@
 📌SPECIALTIES:  Data storytelling, Data Visualizations, Business Strategy, Problem solving, Creative Thinking, Leadership, Relationship Building. 
   </p>
 
+<!-- github stats starts here  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=573-pankaj)](https://github.com/anuraghazra/github-readme-stats)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=573-pankaj&show_icons=true)
+
+<br>
+<!-- work experience section ends here  -->
+<!-- education section starts here  -->
+
+### 👨🏻‍🎓 &nbsp; Education
+
+1. M.Sc. in Computer Science, 
+   Ramakrishna Mission Vidyamandira, Belur Math, Howrah, India.
+2. B.Sc. in Computer applications 
+   MAKAUT  
+   Siliguri, India.
+
+<br />
+
+<!-- education section ends here  -->
+
+<!-- my languages section starts here  -->
+<br>
+### Languages:
+
+- 🇮🇳 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇮🇳 Hindi : Intermediate
+  <br />
+
+<!-- my languages section ends here  -->
+
+<!-- my sports and game section starts here  -->
+<br>
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+<br />
+<!-- my sports and games section ends here  -->
+
 
 
 <u><h2 align=center>My featured Respositories</h2></u>
