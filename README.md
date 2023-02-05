@@ -73,7 +73,7 @@
 
 1. M.Sc. in Computer Science, 
    Ramakrishna Mission Vidyamandira, Belur Math, Howrah, India.
-2. B.Sc. in Computer applications 
+2. Graduation in Computer applications 
    MAKAUT  
    Siliguri, India.
 
@@ -82,6 +82,7 @@
 <!-- education section ends here  -->
 
 <!-- my languages section starts here  -->
+
 <br>
 
 ### &nbsp; Languages:
@@ -89,14 +90,13 @@
 - 🇮🇳 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
 - 🇮🇳 Hindi : Intermediate
-  <br />
-
+  <br/>
 <!-- my languages section ends here  -->
 
 <!-- my sports and game section starts here  -->
-<br>
 
-### &nbsp; Sports / Game / Activities / Hobby:
+
+### &nbsp; Sports / Game / Activities / Hobby :
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
