@@ -63,9 +63,9 @@ Data Analytics based :
 
  In my free I love to play outdoor games like football, cricket and leasing some quality music and drawing. In the year 2019 I had participated in the Reliance Foundation Youth Sports (RFYS) football tournament which is held every year all over India and we were the only team who achieve the championship from Siliguri and promoted to play further matches in Kolkata. It was once in a life experience I had my college life. 
 
-• Interested in AI Research and Explore , and also very much interested in to Know how AI and ML can help future Space mission so efficiently . 
+• Interested in AI Research and Explore and also very much interested in to Know how AI and ML can help future Space mission so efficiently . 
 
-• Techlogies : Ms Excel, Power BI , MYSQL , SQLite , Python, Numpy, Pandas, Scikit-Learn , Machine Learning , Data Science , c++ , Advanced Python.
+• Technologies worked with  : Ms Excel, Power BI , MYSQL , SQLite , Python, Numpy, Pandas, Scikit-Learn , Machine Learning , Data Science , c++ , Advanced Python.
 
 • Soft Skills : Data storytelling, Data Visualizations, Business Strategy, Problem solving, Creative Thinking, Leadership, Relationship Building. 
   </p>
