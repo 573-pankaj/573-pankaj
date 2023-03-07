@@ -47,9 +47,11 @@
 <h1 align=center> 👨‍🏫  About Me :</h1>
 
 <p>• Career Goals : 
+   
 Becoming a successful data scientist and creating Business Strategy using Data Science is my passion. My computer science background, and my Master's degree included statistics, Machine Learning & Data Science etc. subjects make me the person who can understand the Business and the Technology aspects to fill the gap between Technology and the Business use cases to build a powerful impact and positive Customer Relationship.
 
 • Working project experience :
+   
 Machine Learning based  : Privacy-preserving support vector machine training blockchain-based encrypted IOT data in smart cities.
 
 NLP based : Patronizing and Condescending Language (PCL) detection in paragraphs  extracted from news articles in english.
@@ -85,13 +87,9 @@ Data Analytics based :
 2. Graduation in Computer applications 
    MAKAUT  
    Siliguri, India.
-
 <br />
-
 <!-- education section ends here  -->
-
 <!-- my languages section starts here  -->
-
 <br>
 
 ### &nbsp; Languages:
