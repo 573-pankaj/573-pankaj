@@ -46,17 +46,26 @@
 <!-- ### 👨‍🏫 &nbsp; About Me -->
 <h1 align=center> 👨‍🏫  About Me :</h1>
 
-<p>📌 And creating Business Strategy using Data Science is my Avidity. I am kind of person who can understand the Business and the Technology aspects So that I can able to fulfill the gap between Technology and the Business use cases to build the powerful impact and positive Customer Relationship.
+<p>• Career Goals : 
+Becoming a successful data scientist and creating Business Strategy using Data Science is my passion. My computer science background, and my Master's degree included statistics, Machine Learning & Data Science etc. subjects make me the person who can understand the Business and the Technology aspects to fill the gap between Technology and the Business use cases to build a powerful impact and positive Customer Relationship.
 
-📌I am a kind of person who loves to think a lot towards Science and Technology. I have work on variety of machine learning models End to End using PYTHON with real time data set like House price prediction, employee salary prediction, implementing Hierarchical clustering algorithm on Mall Customers and many more and have strong foundation on Math and Stats .I am also a member of the Space and Aeronautics Activity Center (SAAC), the initiatives taken by Jalpaiguri Govt. Engineering college students.  
+• Working project experience :
+Machine Learning based  : Privacy-preserving support vector machine training blockchain-based encrypted IOT data in smart cities.
 
-📌 When I am free I love to play outdoor games like football, cricket and leasing some good music and Drawing✏. In the year 2019 I had participated in the Reliance Foundation Youth Sports (RFYS) football tournament which is held every year all over India and we were the only team who achieve the championship from Siliguri and promoted to play further matches in Kolkata. It was once in a life Experience I had my college life. 
+NLP based : Patronizing and Condescending Language (PCL) detection in paragraphs  extracted from news articles in english.
 
-📌Interested in  AI Research and Explore , and also very much interested in to Know how AI and ML can help future Space mission so efficiently . 
+Data Analytics based : 
+1.  US Superstores data analysis. Technology used - Power BI, Excel , Python. 
+2.  US Bank Customer segmentations . Technology used - Power BI , Excel, Python. 
+3. IPL data analysis . Technology used - Python , statistics , numpy seaborn , ML.
 
-📌TECHNOLOGIES :  Ms Excel, Power BI , MYSQL , SQLite , Python, Numpy, Pandas, Scikit-Learn , Machine Learning , Data Science , c++ , Advanced Python.
+ In my free I love to play outdoor games like football, cricket and leasing some quality music and drawing. In the year 2019 I had participated in the Reliance Foundation Youth Sports (RFYS) football tournament which is held every year all over India and we were the only team who achieve the championship from Siliguri and promoted to play further matches in Kolkata. It was once in a life experience I had my college life. 
 
-📌SPECIALTIES:  Data storytelling, Data Visualizations, Business Strategy, Problem solving, Creative Thinking, Leadership, Relationship Building. 
+• Interested in AI Research and Explore , and also very much interested in to Know how AI and ML can help future Space mission so efficiently . 
+
+• Techlogies : Ms Excel, Power BI , MYSQL , SQLite , Python, Numpy, Pandas, Scikit-Learn , Machine Learning , Data Science , c++ , Advanced Python.
+
+• Soft Skills : Data storytelling, Data Visualizations, Business Strategy, Problem solving, Creative Thinking, Leadership, Relationship Building. 
   </p>
 
 <!-- github stats starts here  -->
