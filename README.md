@@ -7,11 +7,13 @@
 
 <!-- Contact me section starts here  -->
 
+<p align=center><img width="400px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p>
+
 <div align = "center"><img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
 
 <p align="center"><a target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=573-pankaj"/></a></p>
 
-<p align=center><img width="400px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p>
+<!-- <p align=center><img width="400px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p> -->
 
 <h3 align="center">Connect with me :</h3>
 <p align=center>
