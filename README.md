@@ -55,24 +55,33 @@
 <pre>
 <p>• Career Goals : 
    
-Becoming a successful data scientist and creating Business Strategy using Data Science is my passion. My computer science background, and my Master's degree included statistics, Machine Learning & Data Science etc. subjects make me the person who can understand the Business and the Technology aspects to fill the gap between Technology and the Business use cases to build a powerful impact and positive Customer Relationship.
+Becoming a successful data scientist and creating Business Strategy using Data Science is my passion. My computer science 
+background, and my Master's degree included statistics, Machine Learning & Data Science etc. subjects make me the person
+who can understand the Business and the Technology aspects to fill the gap between Technology and the Business use cases 
+to build a powerful impact and positive Customer Relationship.
 
 • Working project experience :
    
-Machine Learning based  : Privacy-preserving support vector machine training blockchain-based encrypted IOT data in smart cities.
+Machine Learning based  : Privacy-preserving support vector machine training blockchain-based encrypted IOT data in 
+smart cities.
 
-NLP based : Patronizing and Condescending Language (PCL) detection in paragraphs  extracted from news articles in english.
+NLP based : Patronizing and Condescending Language (PCL) detection in paragraphs  extracted from news articles 
+in english.
 
 Data Analytics based : 
 1.  US Superstores data analysis. Technology used - Power BI, Excel , Python. 
 2.  US Bank Customer segmentations . Technology used - Power BI , Excel, Python. 
 3. IPL data analysis . Technology used - Python , statistics , numpy seaborn , ML.
 
- In my free I love to play outdoor games like football, cricket and leasing some quality music and drawing. In the year 2019 I had participated in the Reliance Foundation Youth Sports (RFYS) football tournament which is held every year all over India and we were the only team who achieve the championship from Siliguri and promoted to play further matches in Kolkata. It was once in a life experience I had my college life. 
+ In my free I love to play outdoor games like football, cricket and leasing some quality music and drawing. 
+ In the year 2019 I had participated in the Reliance Foundation Youth Sports (RFYS) football tournament which 
+ is held every year all over India and we were the only team who achieve the championship from Siliguri and 
+ promoted to play further matches in Kolkata. It was once in a life experience I had my college life. 
 
 • Interested in AI Research and Explore and also very much interested in to Know how AI and ML can help future Space mission so efficiently . 
 
-• Technologies worked with  : Ms Excel, Power BI , MYSQL , SQLite , Python, Numpy, Pandas, Scikit-Learn , Machine Learning , Data Science , c++ , Advanced Python.
+• Technologies worked with  : Ms Excel, Power BI , MYSQL , SQLite , Python, Numpy, Pandas, Scikit-Learn , Machine Learning , Data Science , 
+c++ , Advanced Python.
 
 • Soft Skills : Data storytelling, Data Visualizations, Business Strategy, Problem solving, Creative Thinking, Leadership, Relationship Building. 
   </p>
