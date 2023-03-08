@@ -4,8 +4,8 @@
    I am very glad you are here. </h1>
    
 <pre>  
-   A full time Post Graduate student and aspiring Data Scientist
-🏠 &nbsp; Living: Raiganj, India
+   A full time Post Graduate student and aspiring Data Scientist 🏠 &nbsp; Living: Raiganj, India
+
 
 </pre> 
 
@@ -52,6 +52,7 @@
 <!-- ### 👨‍🏫 &nbsp; About Me -->
 <h1 align=center> 👨‍🏫  About Me :</h1>
 
+<pre>
 <p>• Career Goals : 
    
 Becoming a successful data scientist and creating Business Strategy using Data Science is my passion. My computer science background, and my Master's degree included statistics, Machine Learning & Data Science etc. subjects make me the person who can understand the Business and the Technology aspects to fill the gap between Technology and the Business use cases to build a powerful impact and positive Customer Relationship.
@@ -75,6 +76,8 @@ Data Analytics based :
 
 • Soft Skills : Data storytelling, Data Visualizations, Business Strategy, Problem solving, Creative Thinking, Leadership, Relationship Building. 
   </p>
+
+</pre>
 
 <!-- github stats starts here  -->
 
