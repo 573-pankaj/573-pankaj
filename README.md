@@ -2,8 +2,12 @@
 <h1>Hello there !! Hope you are doing well👋.
    My name is Pankaj Kumar Barman.
    I am very glad you are here. </h1>
+   
+<pre>  
    A full time Post Graduate student and aspiring Data Scientist
 🏠 &nbsp; Living: Raiganj, India
+
+</pre> 
 
 <!-- Contact me section starts here  -->
 
