@@ -55,7 +55,10 @@
 <pre>
 <p>• Career Goals : 
    
- Becoming a successful AI Researcher.
+ Becoming a successful AI Researcher. And the interest to rerearch and understand on the below fundamental questions-->
+1) At what age during the human life span do different tissues within the brain stop ‘maturing’ and start ‘aging’? 
+2) Do different regions of the brain mature and age at different rates?
+3) Are the last regions in the brain to mature among the first, or the last, to show signs of aging?
 <!--    data scientist and creating Business Strategy using Data Science is my passion. My computer science 
 background, and my Master's degree included statistics, Machine Learning & Data Science etc. subjects make me the person
 who can understand the Business and the Technology aspects to fill the gap between Technology and the Business use cases 
@@ -63,7 +66,10 @@ to build a powerful impact and positive Customer Relationship. -->
 
 • Working project experience :
 
-Brain and AI : Neuroimaging ,MRI Data, Brain Study through AI, Againg .
+Brain and AI : Neuroimaging ,MRI Data, Brain Study through AI, Ageing .
+At what age during the human life span do different tissues within the brain stop ‘maturing’ and start ‘aging’? 
+Do different regions of the brain mature and age at different rates?
+Are the last regions in the brain to mature among the first, or the last, to show signs of aging?
    
 Machine Learning based  : Privacy-preserving support vector machine training blockchain-based encrypted IOT data in 
 smart cities.
