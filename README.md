@@ -4,7 +4,7 @@
    I am very glad you are here. </h1>
    
 <pre>  
-   A full time Post Graduate student and aspiring Data Scientist 🏠 &nbsp; Living: Raiganj, India
+   I have completed Post Graduate in M.Sc in CS and aspiring AI in healthcare Research, My Key interests are : Brain and AI, Computer Vision, Machine Learning 🏠 &nbsp; Living: Raiganj, India
 
 
 </pre> 
@@ -55,12 +55,15 @@
 <pre>
 <p>• Career Goals : 
    
-Becoming a successful data scientist and creating Business Strategy using Data Science is my passion. My computer science 
+ Becoming a successful AI Researcher.
+<!--    data scientist and creating Business Strategy using Data Science is my passion. My computer science 
 background, and my Master's degree included statistics, Machine Learning & Data Science etc. subjects make me the person
 who can understand the Business and the Technology aspects to fill the gap between Technology and the Business use cases 
-to build a powerful impact and positive Customer Relationship.
+to build a powerful impact and positive Customer Relationship. -->
 
 • Working project experience :
+
+Brain and AI : Neuroimaging ,MRI Data, Brain Study through AI, Againg .
    
 Machine Learning based  : Privacy-preserving support vector machine training blockchain-based encrypted IOT data in 
 smart cities.
