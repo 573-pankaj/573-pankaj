@@ -1,10 +1,24 @@
 <div align="center">
+  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Pankaj%20Kumar%20Barman&descAlignY=55&descAlign=50" alt="Header" />
+
+  <br />
+  <h3>🌟 My Life Motto</h3>
+  <p width="600px">
+    <em>
+      "A hundred times every day I remind myself that my inner and outer life is based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving."
+    </em>
+  </p>
+  <p>— <strong>Albert Einstein</strong></p>
+  <br />
+</div>
   
   <h3>🚀 Aspiring AI Researcher | MS by Research at IIT Kanpur</h3>
   
   <p>
-    <em>"Combining Machine Learning theory with hands-on practical application."</em>
+    <em>
+      "Driven by a deep passion for AI, Reinforcement Learning, and Optimization theory—where rigorous research meets practical realization."
+    </em>
   </p>
 
   <p>
@@ -27,15 +41,15 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]I am currently pursuing an **MS by Research in SPCOM at the Indian Institute of Technology (IIT) Kanpur**[cite: 7, 8]. [cite_start]My focus is on theoretical **Reinforcement Learning (RL)** and **Generative AI**[cite: 5, 12]. 
+I am currently pursuing an **MS by Research in SPCOM at the Indian Institute of Technology (IIT) Kanpur**.My focus is on theoretical **Reinforcement Learning (RL)** and **Generative AI**. 
 
-[cite_start]Previously, I worked as a **Young Research Fellow at IIIT-Hyderabad**, working on Cortical image segmentation using Brain MRI data[cite: 29, 33].
+Previously, I worked as a **Young Research Fellow at IIIT-Hyderabad**, working on Cortical image segmentation using Brain MRI data.
 
 * 🔭 **Current Research:** Theoretical Reinforcement Learning & GenAI.
-* 🎓 **Education:** MS (IIT Kanpur), M.Sc. CS (RKM Vidyamandira), BCA (MAKAUT).
-* 🧠 **Interests:** AI in Healthcare, Computer Vision, Signal Temporal Logic.
+* 🎓 **Education:** MS(R) (IIT Kanpur), M.Sc. CS (RKM Vidyamandira), BCA (MAKAUT).
+* 🧠 **Interests:** Reinforcement Learning, NLP, Generative AI, Computer Vision.
 * 📍 **Location:** Kanpur, Uttar Pradesh, India.
-* [cite_start]⚡ **Fun Fact:** I was the Champion in Inter-hostel Cricket tournaments and love sketching! [cite: 68, 75]
+* ⚡ **Fun Fact:** I was the Champion in Inter-hostel Cricket tournaments and love sketching! And people say I play football better than cricket, I playfully reply, I can do both equally!! 🤣🤣   
 
 ---
 
@@ -43,6 +57,7 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -53,6 +68,7 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 
 <br>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -68,10 +84,10 @@
 
 <div align="center">
   <a href="https://github.com/573-pankaj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=573-pankaj&show_icons=true&theme=radical&count_private=true" alt="Pankaj's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=573-pankaj&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/573-pankaj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=573-pankaj&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=573-pankaj&layout=compact&theme=radical" height="180" alt="Top Languages" />
   </a>
 </div>
 <br>
@@ -85,25 +101,25 @@
 
 | **Education** | **Experience** |
 | :--- | :--- |
-| [cite_start]**MS by Research (SPCOM)**<br>🏛️ *IIT Kanpur* (Dec 2024 - Present)<br>Focus: RL, GenAI, Quantum Computing [cite: 7, 8] | [cite_start]**Young Research Fellow**<br>🧠 *Cognitive Science Lab, IIIT-Hyderabad* (2023)<br>Work: Cortical image segmentation on Brain MRI [cite: 29] |
-| **M.Sc. Computer Science**<br>🏛️ *RKM Vidyamandira* (2021 - 2023)<br>CGPA: 8.27 | [cite_start]**Data Analytics Fellow**<br>📊 *Alphaa AI* (2020 - 2021)<br>Work: Data visualization & Strategy [cite: 35] |
-| **BCA**<br>🏛️ *MAKAUT* (2018 - 2021)<br>CGPA: 8.41 (Grade: A) | [cite_start]**Data Science Intern**<br>📈 *The Spark Foundation* (2020)<br>Work: ML Algorithms & Pre-processing [cite: 42] |
+| **MS by Research (SPCOM)**<br>🏛️ *IIT Kanpur* (Dec 2024 - Present)<br>Focus: RL, GenAI, Quantum Computing | **Young Research Fellow**<br>🧠 *Cognitive Science Lab, IIIT-Hyderabad* (2023)<br>Work: Cortical image segmentation on Brain MRI |
+| **M.Sc. Computer Science**<br>🏛️ *RKM Vidyamandira, WB* (2021 - 2023)<br>CGPA: 8.27 |**Data Analytics Fellow**<br>📊 *Alphaa AI* (2020 - 2021)<br>Work: Data visualization & Strategy |
+| **BCA**<br>🏛️ *MAKAUT,West Bengal* (2018 - 2021)<br>CGPA: 8.41 (Grade: A) |**Data Science Intern**<br>📈 *The Spark Foundation* (2020)<br>Work: ML Algorithms & Pre-processing |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 Dual-Decoder for English to STL Translation (GenAI)
-* [cite_start]**Domain:** Generative AI, Cyber-Physical Systems [cite: 54]
+* **Domain:** Generative AI, Cyber-Physical Systems.
 * **Description:** Implemented a Dual-Decoder model to translate English commands into Signal Temporal Logic (STL) formulas.
 * **Goal:** Express real-time requirements over continuous-time signals.
 
 ### 🏥 ML in Healthcare (Thesis)
-* [cite_start]**Domain:** Healthcare Analytics [cite: 58]
+* **Domain:** Healthcare Analytics.
 * **Description:** Data-driven approach to solve real-world healthcare issues using hyper-parameter optimization to improve model accuracy.
 
 ### 📊 US Superstore Data Analysis
-* [cite_start]**Domain:** Business Intelligence [cite: 62]
+* **Domain:** Business Intelligence.
 * **Tech:** Python, Power BI, Excel.
 * **Impact:** Created data-driven strategies connecting "data to dollars."
 
