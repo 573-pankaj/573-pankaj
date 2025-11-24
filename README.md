@@ -1,177 +1,119 @@
-
-<h1>Hello there !! Hope you are doing well👋.
-   My name is Pankaj Kumar Barman.
-   I am very glad you are here. </h1>
-   
-<pre>  
-   I have completed Post Graduate in M.Sc in CS and aspiring AI in healthcare Research, My Key interests are : Brain and AI, Computer Vision, Machine Learning 🏠 &nbsp; Living: Raiganj, India
-
-
-</pre> 
-
-<!-- Contact me section starts here  -->
-
-<p align=center><img width="400px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p>
-
-<div align = "center"><img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
-
-<p align="center"><a target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=573-pankaj"/></a></p>
-
-<!-- <p align=center><img width="400px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p> -->
-
-<h3 align="center">Connect with me :</h3>
-<p align=center>
-<a target="_blank" href="https://www.linkedin.com/in/pankaj-kumar-barman-msc-5a66761a7/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
-<a target="_blank" href="https://www.facebook.com/Pankaj.Barman33199/"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
-<a target="_blank" href="https://www.instagram.com/cr7_pankaj/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
-<a target="_blank" href="https://www.kaggle.com/pankajkumarbarman"><img width="40px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
-<a target="_blank" href="https://twitter.com/PANKAJK60379901"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Pankaj%20Kumar%20Barman&descAlignY=55&descAlign=50" alt="Header" />
+  
+  <h3>🚀 Aspiring AI Researcher | MS by Research at IIT Kanpur</h3>
+  
+  <p>
+    <em>"Combining Machine Learning theory with hands-on practical application."</em>
   </p>
 
-<br>
-<h3 align=center> Technologies included to my day to day activity!! :</h3>
-
- <p align=center>
-  <a target="_blank"><img width="41px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></a>
-  <a target="_blank"><img width="40px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"/></a>
-  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/S/spyder-logo-68D7CF8B2C-seeklogo.com.png"/></a> 
-  <a target="_blank"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm-watson.svg"/></a> 
-  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"/></a>
-  <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/></a>
-  <!-- <a target="_blank"><img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png"/></a> -->
-  <!-- <a target="_blank"><img  width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/></a> -->
-  <a target="_blank"><img  width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-  <a target="_blank"><img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"/></a>
-  <a target="_blank"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
-</p>
-</br>
-<!-- Contact me section ends here  -->
-
-<!-- about-me section starts here  -->
-
-<!-- ### 👨‍🏫 &nbsp; About Me -->
-<h1 align=center> 👨‍🏫  About Me :</h1>
-
-<pre>
-<p>• Career Goals : 
-   
- Becoming a successful AI Researcher. And the interest to rerearch and understand on the below fundamental questions-->
-1) At what age during the human life span do different tissues within the brain stop ‘maturing’ and start ‘aging’? 
-2) Do different regions of the brain mature and age at different rates?
-3) Are the last regions in the brain to mature among the first, or the last, to show signs of aging?
-<!--    data scientist and creating Business Strategy using Data Science is my passion. My computer science 
-background, and my Master's degree included statistics, Machine Learning & Data Science etc. subjects make me the person
-who can understand the Business and the Technology aspects to fill the gap between Technology and the Business use cases 
-to build a powerful impact and positive Customer Relationship. -->
-
-• Working project experience :
-
-Brain and AI : Neuroimaging ,MRI Data, Brain Study through AI, Ageing .
-At what age during the human life span do different tissues within the brain stop ‘maturing’ and start ‘aging’? 
-Do different regions of the brain mature and age at different rates?
-Are the last regions in the brain to mature among the first, or the last, to show signs of aging?
-   
-Machine Learning based  : Privacy-preserving support vector machine training blockchain-based encrypted IOT data in 
-smart cities.
-
-NLP based : Patronizing and Condescending Language (PCL) detection in paragraphs  extracted from news articles 
-in english.
-
-Data Analytics based : 
-1.  US Superstores data analysis. Technology used - Power BI, Excel , Python. 
-2.  US Bank Customer segmentations . Technology used - Power BI , Excel, Python. 
-3. IPL data analysis . Technology used - Python , statistics , numpy seaborn , ML.
-
- In my free I love to play outdoor games like football, cricket and leasing some quality music and drawing. 
- In the year 2019 I had participated in the Reliance Foundation Youth Sports (RFYS) football tournament which 
- is held every year all over India and we were the only team who achieve the championship from Siliguri and 
- promoted to play further matches in Kolkata. It was once in a life experience I had my college life. 
-
-• Interested in AI Research and Explore and also very much interested in to Know how AI and ML can help 
-future Space mission so efficiently . 
-
-• Technologies worked with  : Ms Excel, Power BI , MYSQL , SQLite , Python, Numpy, Pandas, Scikit-Learn , 
-Machine Learning , Data Science , c++ , Advanced Python.
-
-
-• Soft Skills : Data storytelling, Data Visualizations, Business Strategy, Problem solving, Creative Thinking,
-Leadership, Relationship Building. 
+  <p>
+    <a href="https://linkedin.com/in/pankaj-kumar-barman-msc-5a66761a7/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:pankaj33199@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.kaggle.com/pankajkumarbarman" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="https://twitter.com/PANKAJK60379901" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
   </p>
+</div>
 
-</pre>
+---
 
-<!-- github stats starts here  -->
+## 👨‍💻 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=573-pankaj)](https://github.com/anuraghazra/github-readme-stats)
+[cite_start]I am currently pursuing an **MS by Research in SPCOM at the Indian Institute of Technology (IIT) Kanpur**[cite: 7, 8]. [cite_start]My focus is on theoretical **Reinforcement Learning (RL)** and **Generative AI**[cite: 5, 12]. 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=573-pankaj&show_icons=true)
+[cite_start]Previously, I worked as a **Young Research Fellow at IIIT-Hyderabad**, working on Cortical image segmentation using Brain MRI data[cite: 29, 33].
+
+* 🔭 **Current Research:** Theoretical Reinforcement Learning & GenAI.
+* 🎓 **Education:** MS (IIT Kanpur), M.Sc. CS (RKM Vidyamandira), BCA (MAKAUT).
+* 🧠 **Interests:** AI in Healthcare, Computer Vision, Signal Temporal Logic.
+* 📍 **Location:** Kanpur, Uttar Pradesh, India.
+* [cite_start]⚡ **Fun Fact:** I was the Champion in Inter-hostel Cricket tournaments and love sketching! [cite: 68, 75]
+
+---
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br>
-<!-- work experience section ends here  -->
-<!-- education section starts here  -->
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-### 👨🏻‍🎓 &nbsp; Education
-
-1. M.Sc. in Computer Science, 
-   Ramakrishna Mission Vidyamandira, Belur Math, Howrah, India.
-2. Graduation in Computer applications 
-   MAKAUT  
-   Siliguri, India.
-<br />
-<!-- education section ends here  -->
-<!-- my languages section starts here  -->
 <br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-### &nbsp; Languages:
+</div>
 
-- 🇮🇳 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-- 🇮🇳 Hindi : Intermediate
-  <br/>
-<!-- my languages section ends here  -->
+---
 
-<!-- my sports and game section starts here  -->
+<h2 align="center">📈 GitHub Stats</h2>
 
+<div align="center">
+  <a href="https://github.com/573-pankaj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=573-pankaj&show_icons=true&theme=radical&count_private=true" alt="Pankaj's GitHub Stats" />
+  </a>
+  <a href="https://github.com/573-pankaj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=573-pankaj&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=573-pankaj&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
+</div>
 
-### &nbsp; Sports / Game / Activities / Hobby :
+---
 
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
+## 📚 Education & Experience
 
-<br />
-<!-- my sports and games section ends here  -->
+| **Education** | **Experience** |
+| :--- | :--- |
+| [cite_start]**MS by Research (SPCOM)**<br>🏛️ *IIT Kanpur* (Dec 2024 - Present)<br>Focus: RL, GenAI, Quantum Computing [cite: 7, 8] | [cite_start]**Young Research Fellow**<br>🧠 *Cognitive Science Lab, IIIT-Hyderabad* (2023)<br>Work: Cortical image segmentation on Brain MRI [cite: 29] |
+| **M.Sc. Computer Science**<br>🏛️ *RKM Vidyamandira* (2021 - 2023)<br>CGPA: 8.27 | [cite_start]**Data Analytics Fellow**<br>📊 *Alphaa AI* (2020 - 2021)<br>Work: Data visualization & Strategy [cite: 35] |
+| **BCA**<br>🏛️ *MAKAUT* (2018 - 2021)<br>CGPA: 8.41 (Grade: A) | [cite_start]**Data Science Intern**<br>📈 *The Spark Foundation* (2020)<br>Work: ML Algorithms & Pre-processing [cite: 42] |
 
+---
 
+## 🚀 Featured Projects
 
-<u><h2 align=center>My featured Respositories</h2></u>
+### 🤖 Dual-Decoder for English to STL Translation (GenAI)
+* [cite_start]**Domain:** Generative AI, Cyber-Physical Systems [cite: 54]
+* **Description:** Implemented a Dual-Decoder model to translate English commands into Signal Temporal Logic (STL) formulas.
+* **Goal:** Express real-time requirements over continuous-time signals.
 
+### 🏥 ML in Healthcare (Thesis)
+* [cite_start]**Domain:** Healthcare Analytics [cite: 58]
+* **Description:** Data-driven approach to solve real-world healthcare issues using hyper-parameter optimization to improve model accuracy.
 
-<p align=center><a href="https://github.com/573-pankaj/Linear-Algebra-for-Data-Science">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=573-pankaj&repo=Linear-Algebra-for-Data-Science" />
-</a>
+### 📊 US Superstore Data Analysis
+* [cite_start]**Domain:** Business Intelligence [cite: 62]
+* **Tech:** Python, Power BI, Excel.
+* **Impact:** Created data-driven strategies connecting "data to dollars."
 
+---
 
-<a href="https://github.com/573-pankaj/Linkedin-Profile-Data-Analysis-using-Power-BI">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=573-pankaj&repo=Linkedin-Profile-Data-Analysis-using-Power-BI" />
-</a>
+<div align="center">
+  <h3>⚡ Activities & Hobbies</h3>
+  <p>🏏 Cricket | ⚽ Football | 🗣️ Public Speaking | 🎨 Drawing</p>
+  <p><em>Qualified GATE DA (2024) | Swami Vivekananda Merit Scholarship (2022)</em></p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=573-pankaj&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>
 
-<a href="https://github.com/573-pankaj/check-whether-a-Orthopedic-patients-is-Normal-or-Abnormalnot">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=573-pankaj&repo=check-whether-a-Orthopedic-patients-is-Normal-or-Abnormalnot" />
-</a>
-<a href="https://github.com/573-pankaj/-Analyses-the-features-of-Orthopedic-patients-and-making-a-decision-whether-a-patients-is-Normal-or-">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=573-pankaj&repo=-Analyses-the-features-of-Orthopedic-patients-and-making-a-decision-whether-a-patients-is-Normal-or-" />
-</a>
-<a href="https://github.com/573-pankaj/EDA-on-Wind-Data-Set">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=573-pankaj&repo=EDA-on-Wind-Data-Set" />
-</a>
-<a href="https://github.com/573-pankaj/Bank-Customers-Segmentation-Power-BI-Dashboard">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=573-pankaj&repo=Bank-Customers-Segmentation-Power-BI-Dashboard" />
-</a>
-</a>
-<a href="https://github.com/573-pankaj/Learn-Pandas-in-python">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=573-pankaj&repo=Learn-Pandas-in-python" />
-</a>
-
-</p>
-<div align="center"<h3><a href="https://drive.google.com/file/d/1AXBlgh-_ZJ3L7_C9oF8fSRzAOORRIUW8/view?usp=sharing">RESUME</a></h3></div>
