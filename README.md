@@ -1,7 +1,6 @@
 <div align="center">
   <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Pankaj%20Kumar%20Barman&descAlignY=55&descAlign=50" alt="Header" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Pankaj%20Kumar%20Barman%20(পঙ্কজ%20কুমার%20বর্মন)&descAlignY=55&descAlign=50" alt="Header" />
   <br />
   <h3>🌟 My Life Motto</h3>
   <p width="600px">
@@ -22,7 +21,7 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/pankaj-kumar-barman-msc-5a66761a7/" target="_blank">
+    <a href="https://linkedin.com/in/pankaj-kumar-barman-5a66761a7/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:pankaj33199@gmail.com">
@@ -49,7 +48,7 @@ Previously, I worked as a **Young Research Fellow at IIIT-Hyderabad**, working o
 * 🎓 **Education:** MS(R) (IIT Kanpur), M.Sc. CS (RKM Vidyamandira), BCA (MAKAUT).
 * 🧠 **Interests:** Reinforcement Learning, NLP, Generative AI, Computer Vision.
 * 📍 **Location:** Kanpur, Uttar Pradesh, India.
-* ⚡ **Fun Fact:** I was the Champion in Inter-hostel Cricket tournaments and love sketching! And people say I play football better than cricket, I playfully reply, I can do both equally!! 🤣🤣   
+* ⚡ **Fun Fact:** I was the Champion in Inter-hostel Cricket tournaments and love sketching! And people say I play football better than cricket, I playfully reply, I can play both equally!! 🤣🤣   
 
 ---
 
@@ -83,12 +82,12 @@ Previously, I worked as a **Young Research Fellow at IIIT-Hyderabad**, working o
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/573-pankaj">
+  <!-- <a href="https://github.com/573-pankaj">
     <img src="https://github-readme-stats.vercel.app/api?username=573-pankaj&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/573-pankaj">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=573-pankaj&layout=compact&theme=radical" height="180" alt="Top Languages" />
-  </a>
+  </a> -->
 </div>
 <br>
 <div align="center">
