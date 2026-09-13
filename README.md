@@ -234,7 +234,7 @@ machine learning, computer vision, and mathematical concepts.
 </td>
 
 <td align="center" width="25%">
-<img src="images/teaching4.jpg" width="220" alt="Academic mentoring">
+<img src="RARS4.jpg" width="220" alt="Academic mentoring">
 <br>
 <b>Academic Mentoring</b>
 </td>
