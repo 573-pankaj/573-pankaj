@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Pankaj Kumar Barman
+# 👋 Hello, I'm Pankaj Kumar Barman (পঙ্কজ কুমার বর্মন)
 
 ### Theoretical Reinforcement Learning Researcher
 
