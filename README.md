@@ -216,19 +216,19 @@ machine learning, computer vision, and mathematical concepts.
 <tr>
 
 <td align="center" width="25%">
-<img src="RARS1.jpg" width="220" alt="Teaching at IIT Kanpur">
+<img src="RARS1.jpeg" width="220" alt="Teaching at IIT Kanpur">
 <br>
 <b>Teaching at IIT Kanpur</b>
 </td>
 
 <td align="center" width="25%">
-<img src="RARS2.jpg" width="220" alt="Teaching students">
+<img src="RARS2.jpeg" width="220" alt="Teaching students">
 <br>
 <b>Teaching & Discussion</b>
 </td>
 
 <td align="center" width="25%">
-<img src="RARS3.jpg" width="220" alt="Interacting with students">
+<img src="RARS3.jpeg" width="220" alt="Interacting with students">
 <br>
 <b>Student Interaction</b>
 </td>
