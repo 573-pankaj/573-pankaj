@@ -294,9 +294,9 @@ away from research through sports and creative activities.
 <tr>
 
 <td align="center" width="25%">
-<img src="football2.jpg" width="220" alt="Playing cricket">
+<img src="cricket1.jpg" width="220" alt="Playing cricket">
 <br>
-<b>🏏 Cricket</b>
+<b>🏏 Win the Swami Tejaswananda Memorial Cricket turnament as a Vice-Captain 📍RKMV Belur </b>
 </td>
 
 <td align="center" width="25%">
@@ -304,11 +304,36 @@ away from research through sports and creative activities.
 <br>
 <b>⚽ Football</b>
 </td>
+<td align="center" width="25%">
+<img src="football2.jpg" width="220" alt="Playing football">
+<br>
+<b>⚽ Football</b>
+</td>
+<td align="center" width="25%">
+<img src="football3.jpg" width="220" alt="Playing football">
+<br>
+<b>⚽ Football</b>
+</td>
 
 <td align="center" width="25%">
-<img src="football3.jpg" width="220" alt="Drawing">
+<img src="monkey3.jpg" width="220" alt="Drawing">
 <br>
 <b>🎨 Drawing</b>
+</td>
+<td align="center" width="25%">
+<img src="butterfly.jpg" width="220" alt="Drawing">
+<br>
+<b>🎨 Drawing</b>
+</td>
+<td align="center" width="25%">
+<img src="face1.jpg" width="220" alt="Drawing">
+<br>
+<b>🎨 Drawing</b>
+  
+<td align="center" width="25%">
+<img src="face2.jpg" width="220" alt="Drawing">
+<br>
+<b>🎨 Drawing</b
 </td>
 
 <td align="center" width="25%">
