@@ -30,13 +30,13 @@ sample-efficient learning, and sequential decision-making under uncertainty.**
 
 My primary research interests lie in:
 
-- **Reinforcement Learning:** Average-Reward RL, Constrained MDPs, Robust RL,
+* **Reinforcement Learning:** Average-Reward RL, Constrained MDPs, Robust RL,
   Actor-Critic Methods, Natural Policy Gradients, Policy Optimization
-- **Learning Theory:** Global Convergence, Finite-Time Guarantees,
+* **Learning Theory:** Global Convergence, Finite-Time Guarantees,
   Neural Function Approximation, Neural Tangent Kernels, Sample-Efficient Learning
-- **Sequential Decision-Making & Control:** Infinite-Horizon RL, Markovian Sampling,
+* **Sequential Decision-Making & Control:** Infinite-Horizon RL, Markovian Sampling,
   Uncertainty-Aware Learning, Learning-Based Control, Dynamical Systems
-- **Optimization & Stochastic Methods:** Primal-Dual Optimization, Lagrangian Methods,
+* **Optimization & Stochastic Methods:** Primal-Dual Optimization, Lagrangian Methods,
   Multi-Level Monte Carlo, Statistical Estimation
 
 I am particularly interested in understanding **how learning algorithms can make reliable
@@ -53,15 +53,15 @@ under the supervision of **Prof. Washim Uddin Mondal**.
 My research focuses on the theoretical analysis of neural actor-critic algorithms for
 **average-reward and constrained MDPs**, with particular emphasis on:
 
-- Global and finite-time convergence
-- Neural function approximation
-- Markovian sampling and temporal dependence
-- Natural Policy Gradients
-- Primal-dual optimization
-- Multi-Level Monte Carlo (MLMC)
-- Neural Tangent Kernel (NTK) analysis
-- Sample-efficient reinforcement learning
-- Robust and uncertainty-aware RL
+* Global and finite-time convergence
+* Neural function approximation
+* Markovian sampling and temporal dependence
+* Natural Policy Gradients
+* Primal-dual optimization
+* Multi-Level Monte Carlo (MLMC)
+* Neural Tangent Kernel (NTK) analysis
+* Sample-efficient reinforcement learning
+* Robust and uncertainty-aware RL
 
 ---
 
@@ -81,11 +81,11 @@ general policy parameterizations.
 
 Key contributions include:
 
-- Nested **Multi-Level Monte Carlo estimation** under Markovian sampling
-- Neural Tangent Kernel analysis for nonlinear critic approximation
-- Global convergence guarantees
-- Cumulative constraint violation of $\mathcal{O}(T^{-1/4})$
-- Theoretical analysis beyond the traditional linear-critic setting
+* Nested **Multi-Level Monte Carlo estimation** under Markovian sampling
+* Neural Tangent Kernel analysis for nonlinear critic approximation
+* Global convergence guarantees
+* Cumulative constraint violation of $\mathcal{O}(T^{-1/4})$
+* Theoretical analysis beyond the traditional linear-critic setting
 
 ---
 
@@ -97,11 +97,11 @@ Key contributions include:
 
 Current manuscript on sample-efficient average-reward RL with:
 
-- Neural critics
-- General policy parameterizations
-- Natural Actor-Critic methods
-- Continuous state-action spaces
-- Markovian sampling
+* Neural critics
+* General policy parameterizations
+* Natural Actor-Critic methods
+* Continuous state-action spaces
+* Markovian sampling
 
 The work develops **ARNAC-DD** and establishes a
 $\widetilde{\mathcal{O}}(T^{-1/2})$ convergence guarantee.
@@ -112,11 +112,11 @@ $\widetilde{\mathcal{O}}(T^{-1/2})$ convergence guarantee.
 
 ## 🎓 Education
 
-| Degree | Institution | Period |
-|---|---|---|
-| **MS by Research, Electrical Engineering** | Indian Institute of Technology Kanpur | 2024–2026 |
-| **M.Sc. Computer Science** · 8.27/10 | Ramakrishna Mission Vidyamandira, Howrah | 2021–2023 |
-| **BCA** · 8.41/10 | Maulana Abul Kalam Azad University of Technology, West Bengal | 2018–2021 |
+| Degree                                     | Institution                                                   | Period    |
+| ------------------------------------------ | ------------------------------------------------------------- | --------- |
+| **MS by Research, Electrical Engineering** | Indian Institute of Technology Kanpur                         | 2024–2026 |
+| **M.Sc. Computer Science** · 8.27/10       | Ramakrishna Mission Vidyamandira, Howrah                      | 2021–2023 |
+| **BCA** · 8.41/10                          | Maulana Abul Kalam Azad University of Technology, West Bengal | 2018–2021 |
 
 My academic background combines **computer science, mathematics, machine learning,
 and theoretical reinforcement learning**.
@@ -126,29 +126,35 @@ and theoretical reinforcement learning**.
 ## 🛠️ Technical Skills
 
 ### Reinforcement Learning & Theory
+
 `MDPs` `CMDPs` `Average-Reward RL` `Robust MDPs`
 `Actor-Critic` `Policy Gradients` `Natural Policy Gradients`
 `Convergence Analysis` `Primal-Dual Methods`
 
 ### Learning & Optimization
+
 `Neural Function Approximation` `NTK`
 `Statistical Estimation` `Finite-Time Analysis`
 `Gradient-Based Optimization` `Constrained Optimization`
 `Lagrangian Optimization` `MLMC`
 
 ### Machine Learning / Deep Learning
+
 `PyTorch` `TensorFlow` `Keras`
 `NumPy` `Pandas` `Scikit-learn`
 
 ### NLP / Generative AI
+
 `Transformers` `Attention`
 `Sequence-to-Sequence Models` `RAG` `Agentic AI`
 
 ### Computer Vision
+
 `CNNs` `Medical Imaging`
 `Image Segmentation` `Transfer Learning` `OpenCV`
 
 ### Programming & Tools
+
 `Python` `C++` `MySQL`
 `Git` `GitHub` `Linux` `Jupyter Notebook` `VS Code`
 
@@ -163,10 +169,10 @@ and theoretical reinforcement learning**.
 Designed a **dual-decoder Transformer** for translating natural-language
 requirements into **Signal Temporal Logic (STL)** specifications.
 
-- Sequence-to-sequence architecture with self-attention
-- Transformer-based representation learning
-- Translation from English requirements to structured temporal-logic formulas
-- Evaluation of generated formulas for syntactic validity and temporal constraints
+* Sequence-to-sequence architecture with self-attention
+* Transformer-based representation learning
+* Translation from English requirements to structured temporal-logic formulas
+* Evaluation of generated formulas for syntactic validity and temporal constraints
 
 **Focus:** `Transformers` `NLP` `Generative AI` `Signal Temporal Logic`
 
@@ -178,13 +184,13 @@ requirements into **Signal Temporal Logic (STL)** specifications.
 
 Developed a modified **AlexNet CNN** for four-class classification of CT scans.
 
-- 612 CT images
-- Replaced ReLU with ELU
-- Reduced dropout from 0.5 to 0.4
-- Added batch normalization
-- **91.8% validation accuracy**
-- **93.2% training accuracy**
-- **87% recall, 92% precision, 0.89 F1-score**
+* 612 CT images
+* Replaced ReLU with ELU
+* Reduced dropout from 0.5 to 0.4
+* Added batch normalization
+* **91.8% validation accuracy**
+* **93.2% training accuracy**
+* **87% recall, 92% precision, 0.89 F1-score**
 
 **Focus:** `Deep Learning` `CNNs` `Computer Vision` `Medical Imaging`
 
@@ -194,30 +200,71 @@ Developed a modified **AlexNet CNN** for four-class classification of CT scans.
 
 ### Teaching Assistant — IIT Kanpur
 
-- Representation and Analysis of Random Signals (EE621)
-- Probability and Stochastic Processes (EE901E)
-- Computer Vision and Deep Learning (EE655)
-- Introduction to Electrical Engineering Lab (ESO 203)
+I enjoy teaching and interacting with students, particularly in probability,
+machine learning, computer vision, and mathematical concepts.
+
+* Representation and Analysis of Random Signals (EE621)
+* Probability and Stochastic Processes (EE901E)
+* Computer Vision and Deep Learning (EE655)
+* Introduction to Electrical Engineering Lab (ESO 203)
+
+### 📸 Teaching in Action
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<img src="RARS1.jpg" width="220" alt="Teaching at IIT Kanpur">
+<br>
+<b>Teaching at IIT Kanpur</b>
+</td>
+
+<td align="center" width="25%">
+<img src="RARS2.jpg" width="220" alt="Teaching students">
+<br>
+<b>Teaching & Discussion</b>
+</td>
+
+<td align="center" width="25%">
+<img src="RARS3.jpg" width="220" alt="Interacting with students">
+<br>
+<b>Student Interaction</b>
+</td>
+
+<td align="center" width="25%">
+<img src="images/teaching4.jpg" width="220" alt="Academic mentoring">
+<br>
+<b>Academic Mentoring</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ### AI/ML Trainer — Sikharthy Infotech Pvt. Ltd.
 
 Conducted a two-week training engagement covering:
 
-- Statistics
-- Data preprocessing
-- Exploratory Data Analysis
-- Machine Learning fundamentals
-- Classification and Regression
+* Statistics
+* Data preprocessing
+* Exploratory Data Analysis
+* Machine Learning fundamentals
+* Classification and Regression
 
 ---
 
 ## 🏆 Achievements
 
-- **UAI 2026** — Co-author of research paper on global convergence in
+* **UAI 2026** — Co-author of research paper on global convergence in
   average-reward constrained MDPs with neural critics
-- **GATE Data Science & Artificial Intelligence (DA)** — Qualified, 2024
-- **Swami Vivekananda Merit Cum Means Scholarship** — 2022
-- **1st Prize**, Mobile Mock-up Design Competition — 2019
+* **GATE Data Science & Artificial Intelligence (DA)** — Qualified, 2024
+* **Swami Vivekananda Merit Cum Means Scholarship** — 2022
+* **1st Prize**, Mobile Mock-up Design Competition — 2019
 
 ---
 
@@ -236,27 +283,79 @@ meet challenging sequential decision-making environments.
 
 ---
 
-## 🌱 Beyond Research
+## 🏏⚽ Beyond Research
 
-Outside academics, I enjoy:
+Outside academics, I enjoy **cricket, football, drawing**, and spending time
+away from research through sports and creative activities.
 
-🏏 **Cricket** · ⚽ **Football** · 🎨 **Drawing**
+<div align="center">
 
-I also enjoy teaching and discussing technical concepts with others.
+<table>
+<tr>
+
+<td align="center" width="25%">
+<img src="football2.jpg" width="220" alt="Playing cricket">
+<br>
+<b>🏏 Cricket</b>
+</td>
+
+<td align="center" width="25%">
+<img src="football1.jpg" width="220" alt="Playing football">
+<br>
+<b>⚽ Football</b>
+</td>
+
+<td align="center" width="25%">
+<img src="football3.jpg" width="220" alt="Drawing">
+<br>
+<b>🎨 Drawing</b>
+</td>
+
+<td align="center" width="25%">
+<img src="images/beyond_research.jpg" width="220" alt="Beyond research">
+<br>
+<b>🌱 Beyond Research</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📁 Image Organization
+
+The images used in this README are stored in the repository under:
+
+```text
+images/
+├── teaching1.jpg
+├── teaching2.jpg
+├── teaching3.jpg
+├── teaching4.jpg
+├── cricket.jpg
+├── football.jpg
+├── drawing.jpg
+└── beyond_research.jpg
+```
+
+You can replace these files with your own original photographs while keeping
+the same filenames, or modify the filenames in the README accordingly.
 
 ---
 
 ## 📫 Contact
 
-**Email:** pankajkb24@iitk.ac.in
+**Email:** [pankajkb24@iitk.ac.in](mailto:pankajkb24@iitk.ac.in)
 
-**Google Scholar:**  
+**Google Scholar:**
 https://scholar.google.com/citations?user=-4oPk8kAAAAJ&hl=en
 
-**LinkedIn:**  
+**LinkedIn:**
 https://www.linkedin.com/in/pankaj-kumar-barman-5a66761a7/
 
-**GitHub:**  
+**GitHub:**
 https://github.com/573-pankaj
 
 ---
