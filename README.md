@@ -234,7 +234,7 @@ machine learning, computer vision, and mathematical concepts.
 </td>
 
 <td align="center" width="25%">
-<img src="RARS4.jpg" width="220" alt="Academic mentoring">
+<img src="RARS4.jpeg" width="220" alt="Academic mentoring">
 <br>
 <b>Academic Mentoring</b>
 </td>
@@ -316,12 +316,12 @@ away from research through sports and creative activities.
 </td>
 
 <td align="center" width="25%">
-<img src="monkey3.jpg" width="220" alt="Drawing">
+<img src="monkey3.png" width="220" alt="Drawing">
 <br>
 <b>🎨 Drawing</b>
 </td>
 <td align="center" width="25%">
-<img src="butterfly.jpg" width="220" alt="Drawing">
+<img src="butterfly.png" width="220" alt="Drawing">
 <br>
 <b>🎨 Drawing</b>
 </td>
@@ -331,16 +331,16 @@ away from research through sports and creative activities.
 <b>🎨 Drawing</b>
   
 <td align="center" width="25%">
-<img src="face2.jpg" width="220" alt="Drawing">
+<img src="face2.png" width="220" alt="Drawing">
 <br>
 <b>🎨 Drawing</b
 </td>
 
-<td align="center" width="25%">
+<!-- <td align="center" width="25%">
 <img src="images/beyond_research.jpg" width="220" alt="Beyond research">
 <br>
 <b>🌱 Beyond Research</b>
-</td>
+</td> -->
 
 </tr>
 </table>
