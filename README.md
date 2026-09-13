@@ -296,7 +296,8 @@ away from research through sports and creative activities.
 <td align="center" width="25%">
 <img src="cricket1.jpg" width="220" alt="Playing cricket">
 <br>
-<b>🏏 Win the Swami Tejaswananda Memorial Cricket turnament as a Vice-Captain 📍RKMV Belur </b>
+<b>🏏 Cricket Champions! </b>
+<!-- <b>🏏 Win the Swami Tejaswananda Memorial Cricket turnament as a Vice-Captain 📍RKMV Belur </b> -->
 </td>
 
 <td align="center" width="25%">
