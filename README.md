@@ -350,27 +350,6 @@ away from research through sports and creative activities.
 
 ---
 
-## 📁 Image Organization
-
-The images used in this README are stored in the repository under:
-
-```text
-images/
-├── teaching1.jpg
-├── teaching2.jpg
-├── teaching3.jpg
-├── teaching4.jpg
-├── cricket.jpg
-├── football.jpg
-├── drawing.jpg
-└── beyond_research.jpg
-```
-
-You can replace these files with your own original photographs while keeping
-the same filenames, or modify the filenames in the README accordingly.
-
----
-
 ## 📫 Contact
 
 **Email:** [pankajkb24@iitk.ac.in](mailto:pankajkb24@iitk.ac.in)
