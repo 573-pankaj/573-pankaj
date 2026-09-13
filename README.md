@@ -316,7 +316,7 @@ away from research through sports and creative activities.
 </td>
 
 <td align="center" width="25%">
-<img src="monkey3.png" width="220" alt="Drawing">
+<img src="monkey.png" width="220" alt="Drawing">
 <br>
 <b>🎨 Drawing</b>
 </td>
@@ -326,7 +326,7 @@ away from research through sports and creative activities.
 <b>🎨 Drawing</b>
 </td>
 <td align="center" width="25%">
-<img src="face1.jpg" width="220" alt="Drawing">
+<img src="face1.png" width="220" alt="Drawing">
 <br>
 <b>🎨 Drawing</b>
   
